@@ -4,4 +4,4 @@ pandas
 gunicorn
 
 #for importing the local package
--e.
+-e .
