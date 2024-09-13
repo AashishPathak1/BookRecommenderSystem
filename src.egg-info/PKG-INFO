@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Book Recommender System
+Home-page: https://github.com/AashishPathak1/BookRecommenderSystem.git
+Author: Aashish Pathak
+Author-email: mr.aashishpathak.official@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: flask
+Requires-Dist: numpy
+
 ShowMyBooks - Book Recommendation System
 
 Overview
@@ -55,5 +67,13 @@ Getting Started
 
 1. Clone the repository
 2. Install dependencies using pip install -r requirements.txt
-3. Run the application using python (flask run)
-4. Access the application at https://showmybooks.onrender.com/
+3. Run the application using python (python app.py)
+4. Access the application at http://localhost:5000
+
+I made some changes to make it easier to read and visualize, including:
+
+- Using headings and subheadings to organize the content
+- Adding bullet points to list key features and technical details
+- Using bold text to highlight important information
+- Adding a "Showcase" section to highlight your expertise
+- Using a more concise and readable format for the repository contents and getting started sections
