@@ -77,13 +77,14 @@ This project highlights my expertise in:
 ## 🔍 Explore the Application
 
 Dive right into discovering your next favorite book!
+
 Click the link below to access the live ShowMyBooks app:
 [**ShowMyBooks**](https://showmybooks.onrender.com/)
 
 ### 📂 Check Out My Current Version of Project
 
 Currently new updated version in ui with some features
-Visit [**Explore ShowMyBooks2.O Now!**](https://aashishpathak1-showmybooks2-o-app-esd7oj.streamlit.app/)
+Visit [** ShowMyBooks2.O **] here (https://aashishpathak1-showmybooks2-o-app-esd7oj.streamlit.app/)
 
 Enjoy personalized book recommendations and more in both versions!
 
