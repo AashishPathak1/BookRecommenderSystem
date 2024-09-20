@@ -84,7 +84,7 @@ Click the link below to access the live ShowMyBooks app:
 ### 📂 Check Out My Current Version of Project
 
 Currently new updated version in ui with some features
-Visit [**ShowMyBooks2.O**](https://aashishpathak1-showmybooks2-o-app-esd7oj.streamlit.app/)
+Visit [**ShowMyBooks2.O**](https://aashishpathak1-showmybooks2-o-innewui.streamlit.app/)
 
 Enjoy personalized book recommendations and more in both versions!
 
